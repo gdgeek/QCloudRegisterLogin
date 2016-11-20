@@ -1,4 +1,4 @@
 <?php
-
-$login = new \Common\Login();
-$login->action();
+echo "aaaa";
+//$login = new \Common\Login();
+//$login->action();
