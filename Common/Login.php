@@ -14,8 +14,9 @@ class Login{
     function action(){
 
         echo 1;
-return;
+
         $pdo = new \Config\DbPdo();
+        return;
         $ret = new \Common\Result();
 
         if(!isset($_REQUEST['id'])){
