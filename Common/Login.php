@@ -13,7 +13,8 @@ namespace Common;
 class Login{
     function action(){
 
-
+        echo 1;
+return;
         $pdo = new \Config\DbPdo();
         $ret = new \Common\Result();
 
@@ -55,9 +56,6 @@ class Login{
             $user->password = $password;
             $user->nickname = $nickname;
             $ret->user = $user;
-            //return;
-            /*
-                   $ret->user =*/
         }else{
             $ret->error("no user");
             $ret->output();
