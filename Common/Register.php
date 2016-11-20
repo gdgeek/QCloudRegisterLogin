@@ -43,7 +43,8 @@ class Register{
                 $sql = "INSERT INTO `user` (`nickname`,`password`)VALUES (:nickname, :password)";
                 $stm = $pdo->db->prepare($sql);
                 $stm->bindParam(":nickname", $user->nickname);
-                $stm->bindParam(":password", md5($user->password));
+                $md5 =  md5($user->password);
+                $stm->bindParam(":password",$md5);
                 $stm->execute();
                 $user->id = $pdo->db->lastInsertId();
                 $ret->user = $user;
