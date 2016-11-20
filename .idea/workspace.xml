@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef2701ba-ab4b-4ef9-8736-0d3e5ebe4b6d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/Login.php" afterPath="$PROJECT_DIR$/Common/Login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Config/DbPdo.php" afterPath="$PROJECT_DIR$/Config/DbPdo.php" />
     </list>
     <ignored path="QCloudRegisterLogin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,8 +49,8 @@
       <file leaf-file-name="DbPdo.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Config/DbPdo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="330">
+              <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -65,6 +66,7 @@
       <list>
         <option value="$PROJECT_DIR$/Lesson/user/login.php" />
         <option value="$PROJECT_DIR$/Common/Login.php" />
+        <option value="$PROJECT_DIR$/Config/DbPdo.php" />
       </list>
     </option>
   </component>
@@ -135,7 +137,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson" />
+              <option name="myItemId" value="Config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -149,11 +151,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
+              <option name="myItemId" value="Common" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -174,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479623094876</updated>
-      <workItem from="1479623096143" duration="258000" />
+      <workItem from="1479623096143" duration="1095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="258000" />
+    <option name="totallyTimeSpent" value="1095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="59" width="1260" height="686" extended-state="0" />
@@ -240,8 +238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Config/DbPdo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
           <folding />
         </state>
       </provider>
