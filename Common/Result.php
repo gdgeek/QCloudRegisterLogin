@@ -27,7 +27,5 @@ class Result{
     public function error($message){
         $this->message = $message;
         $this->succeed = false;
-       // $this->output();
-       // die();
     }
 };

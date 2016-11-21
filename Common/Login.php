@@ -13,10 +13,7 @@ namespace Common;
 class Login{
     function action(){
 
-        echo 1;
-
-        $pdo = new \Config\DbPdo();
-        return;
+        $pdo = new \Common\DbPdo();
         $ret = new \Common\Result();
 
         if(!isset($_REQUEST['id'])){

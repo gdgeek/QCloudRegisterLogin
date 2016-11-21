@@ -8,7 +8,7 @@
 
 //$webserver = new ('http://0.0.0.0:8080');
 
-namespace Config;
+namespace Common;
 
 class DbPdo{
 
@@ -21,8 +21,6 @@ class DbPdo{
         $port = "15569";
         $user = "cdb_outerroot";
         $pwd = "qs^%$#@!";
-        //$user = "web";
-        //$pwd = "Ot6QzOCnYEhQl4Y2";
         $db = "qgame";
         try{
             $this->db = new \PDO("mysql:host=$server;port=$port;dbname=$db", $user, $pwd);

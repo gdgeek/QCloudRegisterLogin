@@ -27,7 +27,7 @@ class Register{
         $ret = new \Common\Result();
         if(isset($_REQUEST['nickname'])){
 
-            $pdo = new \Config\DbPdo();
+            $pdo = new \Common\DbPdo();
             $user = new \stdClass();
             $user->nickname = $_REQUEST['nickname'];
             $user->password = $this->make_password();
