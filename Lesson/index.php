@@ -1,7 +1,10 @@
 <?php
 echo 1;
 $redis = new Redis();
-$redis->connect('127.0.0.1',6379);
+//$redis->connect('127.0.0.1',6379);
+
+$this->redis->connect('10.66.148.92',6379);
+$this->redis->auth("crs-00dwilt7:qs654321");
 $redis->set('Jay13','w1111');
 echo 'Jay13:'.$redis->get('Jay13');
 echo '</br>';
