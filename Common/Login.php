@@ -13,7 +13,7 @@ namespace Common;
 class Login{
     function action(){
 
-        $pdo = new \Common\DbPdo();
+
         $ret = new \Common\Result();
 
         if(!isset($_REQUEST['id'])){
@@ -29,7 +29,7 @@ class Login{
             return;
 
         }
-
+        $pdo = new \Common\DbPdo();
         $id = $_REQUEST['id'];
         $password = $_REQUEST['password'];
 
@@ -42,6 +42,9 @@ class Login{
         $query = $stm->fetch();
 
         if($query){
+            echo  md5($password);
+            echo "||";
+            echo $query['password'];
             if($query['password'] != md5($password)){
                 $ret->error("wrong password");
                 $ret->output();

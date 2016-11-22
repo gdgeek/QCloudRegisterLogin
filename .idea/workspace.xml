@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef2701ba-ab4b-4ef9-8736-0d3e5ebe4b6d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Common/DbRedis.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Config/DbPdo.php" afterPath="$PROJECT_DIR$/Common/DbPdo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Common/Score.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/score/submit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/score/top10.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/DbRedis.php" afterPath="$PROJECT_DIR$/Common/DbRedis.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/Login.php" afterPath="$PROJECT_DIR$/Common/Login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/Register.php" afterPath="$PROJECT_DIR$/Common/Register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/Result.php" afterPath="$PROJECT_DIR$/Common/Result.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson/index.php" afterPath="$PROJECT_DIR$/Lesson/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson/user/register.php" afterPath="$PROJECT_DIR$/Lesson/user/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson/user/login.php" afterPath="$PROJECT_DIR$/Lesson/user/login.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_Users_ruidi_webproject_QCloudRegisterLogin_Lesson_start.php.pid" afterPath="$PROJECT_DIR$/_Users_ruidi_webproject_QCloudRegisterLogin_Lesson_start.php.pid" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/workerman.log" afterPath="$PROJECT_DIR$/workerman.log" />
     </list>
@@ -35,9 +35,69 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson/user/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="submit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson/score/submit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbRedis.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Common/DbRedis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Common/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+              <folding>
+                <marker date="1479732270000" expanded="true" signature="586:635" ph="SELECT passw... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Score.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Common/Score.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <marker date="1479778812000" expanded="true" signature="1909:1958" ph="SELECT passw... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top10.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson/score/top10.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,57 +112,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/Login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <marker date="1479652378000" expanded="true" signature="586:635" ph="SELECT passw... user" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Register.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Common/Register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="285">
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="41" />
               <folding>
                 <marker date="1479652254000" expanded="true" signature="779:831" ph="SELECT COUNT... user" />
                 <marker date="1479652254000" expanded="true" signature="1069:1140" ph="INSERT INTO `user`... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DbPdo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/DbPdo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DbRedis.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Common/DbRedis.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -132,11 +150,17 @@
         <option value="$PROJECT_DIR$/User/Login.php" />
         <option value="$PROJECT_DIR$/UserSpace/Register.php" />
         <option value="$PROJECT_DIR$/UserSpace/Login.php" />
-        <option value="$PROJECT_DIR$/Lesson/user/login.php" />
         <option value="$PROJECT_DIR$/Lesson/user/register.php" />
         <option value="$PROJECT_DIR$/Common/Register.php" />
-        <option value="$PROJECT_DIR$/Common/Login.php" />
         <option value="$PROJECT_DIR$/Lesson/index.php" />
+        <option value="$PROJECT_DIR$/Common/DbRedis.php" />
+        <option value="$PROJECT_DIR$/Common/Submit.php" />
+        <option value="$PROJECT_DIR$/Lesson/score/top10.php" />
+        <option value="$PROJECT_DIR$/Lesson/score/submit.php" />
+        <option value="$PROJECT_DIR$/Common/User.php" />
+        <option value="$PROJECT_DIR$/Lesson/user/login.php" />
+        <option value="$PROJECT_DIR$/Common/Login.php" />
+        <option value="$PROJECT_DIR$/Common/Score.php" />
       </list>
     </option>
   </component>
@@ -241,6 +265,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="score" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QCloudRegisterLogin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QCloudRegisterLogin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Common" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -322,12 +364,12 @@
       <updated>1479623094876</updated>
       <workItem from="1479623096143" duration="1390000" />
       <workItem from="1479650328770" duration="2338000" />
-      <workItem from="1479704113679" duration="764000" />
+      <workItem from="1479704113679" duration="12380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4492000" />
+    <option name="totallyTimeSpent" value="16108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="59" width="1260" height="686" extended-state="0" />
@@ -397,7 +439,7 @@
         <state relative-caret-position="180">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
-            <marker date="1479652378000" expanded="true" signature="586:635" ph="SELECT passw... user" />
+            <marker date="1479732270000" expanded="true" signature="586:635" ph="SELECT passw... user" />
           </folding>
         </state>
       </provider>
@@ -410,10 +452,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson/user/login.php">
+    <entry file="file://$PROJECT_DIR$/Lesson/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -426,35 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Common/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <marker date="1479652378000" expanded="true" signature="586:635" ph="SELECT passw... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/Register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <marker date="1479652254000" expanded="true" signature="779:831" ph="SELECT COUNT... user" />
-            <marker date="1479652254000" expanded="true" signature="1069:1140" ph="INSERT INTO `user`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/DbPdo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Common/Result.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -463,19 +476,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson/index.php">
+    <entry file="file://$PROJECT_DIR$/Common/DbRedis.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="6" />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/DbPdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Common/DbRedis.php">
+    <entry file="file://$PROJECT_DIR$/Common/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <marker date="1479652254000" expanded="true" signature="779:831" ph="SELECT COUNT... user" />
+            <marker date="1479652254000" expanded="true" signature="1069:1140" ph="INSERT INTO `user`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="60" column="9" selection-start-line="30" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson/user/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding>
+            <marker date="1479732270000" expanded="true" signature="586:635" ph="SELECT passw... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="2204" column="54" selection-start-line="2204" selection-start-column="54" selection-end-line="2204" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson/score/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson/score/top10.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/Score.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <marker date="1479778812000" expanded="true" signature="1909:1958" ph="SELECT passw... user" />
+          </folding>
         </state>
       </provider>
     </entry>
