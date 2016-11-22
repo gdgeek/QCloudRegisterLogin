@@ -42,9 +42,6 @@ class Login{
         $query = $stm->fetch();
 
         if($query){
-            echo  md5($password);
-            echo "||";
-            echo $query['password'];
             if($query['password'] != md5($password)){
                 $ret->error("wrong password");
                 $ret->output();
