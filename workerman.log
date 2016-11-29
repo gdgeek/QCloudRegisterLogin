@@ -5,3 +5,440 @@
 2016-11-20 14:49:28 pid:4087 Workerman[start.php] Stopping ...
 2016-11-20 14:49:28 pid:4087 Workerman[start.php] has been stopped
 2016-11-20 14:49:31 pid:4120 Workerman[start.php] start in DEBUG mode
+2016-11-20 14:50:35 pid:4120 Workerman[start.php] Stopping ...
+2016-11-20 14:50:35 pid:4120 Workerman[start.php] has been stopped
+2016-11-20 14:50:57 pid:4156 Workerman[start.php] stop 
+2016-11-20 14:50:57 pid:4156 Workerman[start.php] not run
+2016-11-21 12:56:47 pid:14947 Workerman[start.php] start in DEBUG mode
+2016-11-21 15:22:57 pid:14947 Workerman[start.php] Stopping ...
+2016-11-21 15:22:57 pid:14947 Workerman[start.php] has been stopped
+2016-11-21 15:22:59 pid:16737 Workerman[start.php] start in DEBUG mode
+2016-11-21 15:24:55 pid:16737 Workerman[start.php] Stopping ...
+2016-11-21 15:24:55 pid:16737 Workerman[start.php] has been stopped
+2016-11-21 15:24:56 pid:16754 Workerman[start.php] start in DEBUG mode
+2016-11-21 15:24:59 pid:16756 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Redis' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/DbRedis.php on line 18
+2016-11-21 15:24:59 pid:16758 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Redis' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/DbRedis.php on line 18
+2016-11-21 15:24:59 pid:16757 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Redis' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/DbRedis.php on line 18
+2016-11-21 15:24:59 pid:16754 worker[WebServer:16758] exit with status 65280
+2016-11-21 15:24:59 pid:16754 worker[WebServer:16756] exit with status 65280
+2016-11-21 15:24:59 pid:16754 worker[WebServer:16757] exit with status 65280
+2016-11-21 15:24:59 pid:16755 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Redis' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/DbRedis.php on line 18
+2016-11-21 15:24:59 pid:16754 worker[WebServer:16755] exit with status 65280
+2016-11-21 15:25:04 pid:16760 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Redis' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/DbRedis.php on line 18
+2016-11-21 15:25:04 pid:16754 worker[WebServer:16760] exit with status 65280
+2016-11-21 15:25:25 pid:16754 Workerman[start.php] Stopping ...
+2016-11-21 15:25:25 pid:16754 Workerman[start.php] has been stopped
+2016-11-21 15:25:26 pid:16772 Workerman[start.php] start in DEBUG mode
+2016-11-21 19:44:03 pid:16772 Workerman[start.php] Stopping ...
+2016-11-21 19:44:03 pid:16772 Workerman[start.php] has been stopped
+2016-11-21 19:44:04 pid:17649 Workerman[start.php] start in DEBUG mode
+2016-11-21 19:48:03 pid:17649 Workerman[start.php] Stopping ...
+2016-11-21 19:48:03 pid:17649 Workerman[start.php] has been stopped
+2016-11-21 19:48:04 pid:17667 Workerman[start.php] start in DEBUG mode
+2016-11-21 19:49:02 pid:17667 Workerman[start.php] Stopping ...
+2016-11-21 19:49:02 pid:17667 Workerman[start.php] has been stopped
+2016-11-21 19:49:03 pid:17683 Workerman[start.php] start in DEBUG mode
+2016-11-21 19:52:03 pid:17683 Workerman[start.php] Stopping ...
+2016-11-21 19:52:03 pid:17683 Workerman[start.php] has been stopped
+2016-11-21 19:52:04 pid:17704 Workerman[start.php] start in DEBUG mode
+2016-11-21 19:52:35 pid:17704 Workerman[start.php] Stopping ...
+2016-11-21 19:52:35 pid:17704 Workerman[start.php] has been stopped
+2016-11-21 19:52:36 pid:17714 Workerman[start.php] start in DEBUG mode
+2016-11-21 19:52:51 pid:17714 Workerman[start.php] Stopping ...
+2016-11-21 19:52:51 pid:17714 Workerman[start.php] has been stopped
+2016-11-21 19:52:52 pid:17722 Workerman[start.php] start in DEBUG mode
+2016-11-21 20:38:51 pid:17722 Workerman[start.php] Stopping ...
+2016-11-21 20:38:51 pid:17722 Workerman[start.php] has been stopped
+2016-11-21 20:38:53 pid:17944 Workerman[start.php] start in DEBUG mode
+2016-11-21 20:41:05 pid:17944 Workerman[start.php] Stopping ...
+2016-11-21 20:41:05 pid:17944 Workerman[start.php] has been stopped
+2016-11-21 20:41:05 pid:17961 Workerman[start.php] start in DEBUG mode
+2016-11-21 20:44:13 pid:17961 Workerman[start.php] Stopping ...
+2016-11-21 20:44:13 pid:17961 Workerman[start.php] has been stopped
+2016-11-21 20:44:14 pid:17985 Workerman[start.php] start in DEBUG mode
+2016-11-21 20:44:38 pid:17985 Workerman[start.php] Stopping ...
+2016-11-21 20:44:38 pid:17985 Workerman[start.php] has been stopped
+2016-11-21 20:44:40 pid:17993 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:15:43 pid:17993 Workerman[start.php] Stopping ...
+2016-11-21 21:15:43 pid:17993 Workerman[start.php] has been stopped
+2016-11-21 21:15:44 pid:18058 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:34:37 pid:18058 Workerman[start.php] Stopping ...
+2016-11-21 21:34:38 pid:18058 Workerman[start.php] has been stopped
+2016-11-21 21:34:48 pid:18096 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:35:01 pid:18096 Workerman[start.php] Stopping ...
+2016-11-21 21:35:01 pid:18096 Workerman[start.php] has been stopped
+2016-11-21 21:35:02 pid:18104 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:37:12 pid:18104 Workerman[start.php] Stopping ...
+2016-11-21 21:37:12 pid:18104 Workerman[start.php] has been stopped
+2016-11-21 21:37:13 pid:18115 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:37:35 pid:18115 Workerman[start.php] Stopping ...
+2016-11-21 21:37:35 pid:18115 Workerman[start.php] has been stopped
+2016-11-21 21:37:36 pid:18123 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:44:55 pid:18123 Workerman[start.php] Stopping ...
+2016-11-21 21:44:55 pid:18123 Workerman[start.php] has been stopped
+2016-11-21 21:44:57 pid:18133 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:45:48 pid:18133 Workerman[start.php] Stopping ...
+2016-11-21 21:45:48 pid:18133 Workerman[start.php] has been stopped
+2016-11-21 21:45:50 pid:18143 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:48:42 pid:18143 Workerman[start.php] Stopping ...
+2016-11-21 21:48:42 pid:18143 Workerman[start.php] has been stopped
+2016-11-21 21:48:43 pid:18153 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:55:20 pid:18153 Workerman[start.php] Stopping ...
+2016-11-21 21:55:20 pid:18153 Workerman[start.php] has been stopped
+2016-11-21 21:55:21 pid:18170 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:55:33 pid:18170 Workerman[start.php] Stopping ...
+2016-11-21 21:55:33 pid:18170 Workerman[start.php] has been stopped
+2016-11-21 21:55:34 pid:18178 Workerman[start.php] start in DEBUG mode
+2016-11-21 21:57:15 pid:18178 Workerman[start.php] Stopping ...
+2016-11-21 21:57:15 pid:18178 Workerman[start.php] has been stopped
+2016-11-21 21:57:16 pid:18191 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:05:36 pid:18191 Workerman[start.php] Stopping ...
+2016-11-21 22:05:36 pid:18191 Workerman[start.php] has been stopped
+2016-11-21 22:05:37 pid:18218 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:05:53 pid:18218 Workerman[start.php] Stopping ...
+2016-11-21 22:05:53 pid:18218 Workerman[start.php] has been stopped
+2016-11-21 22:05:54 pid:18226 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:06:12 pid:18226 Workerman[start.php] Stopping ...
+2016-11-21 22:06:12 pid:18226 Workerman[start.php] has been stopped
+2016-11-21 22:06:13 pid:18237 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:08:34 pid:18237 Workerman[start.php] Stopping ...
+2016-11-21 22:08:34 pid:18237 Workerman[start.php] has been stopped
+2016-11-21 22:08:36 pid:18255 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:09:08 pid:18255 Workerman[start.php] Stopping ...
+2016-11-21 22:09:08 pid:18255 Workerman[start.php] has been stopped
+2016-11-21 22:09:09 pid:18263 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:09:51 pid:18263 Workerman[start.php] Stopping ...
+2016-11-21 22:09:51 pid:18263 Workerman[start.php] has been stopped
+2016-11-21 22:09:52 pid:18274 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:10:21 pid:18274 Workerman[start.php] Stopping ...
+2016-11-21 22:10:21 pid:18274 Workerman[start.php] has been stopped
+2016-11-21 22:10:22 pid:18288 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:11:08 pid:18288 Workerman[start.php] Stopping ...
+2016-11-21 22:11:08 pid:18288 Workerman[start.php] has been stopped
+2016-11-21 22:11:08 pid:18300 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:13:46 pid:18300 Workerman[start.php] Stopping ...
+2016-11-21 22:13:46 pid:18300 Workerman[start.php] has been stopped
+2016-11-21 22:13:48 pid:18308 Workerman[start.php] start in DEBUG mode
+2016-11-21 22:14:34 pid:18308 Workerman[start.php] Stopping ...
+2016-11-21 22:14:34 pid:18308 Workerman[start.php] has been stopped
+2016-11-21 22:14:35 pid:18318 Workerman[start.php] start in DEBUG mode
+2016-11-22 18:05:32 pid:18318 Workerman[start.php] Stopping ...
+2016-11-22 18:05:32 pid:18318 Workerman[start.php] has been stopped
+2016-11-29 05:57:17 pid:20485 Workerman[start.php] start in DEBUG mode
+2016-11-29 05:58:21 pid:20487 WORKER EXIT UNEXPECTED E_ERROR Class 'Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 9
+2016-11-29 05:58:21 pid:20489 WORKER EXIT UNEXPECTED E_ERROR Class 'Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 9
+2016-11-29 05:58:21 pid:20486 WORKER EXIT UNEXPECTED E_ERROR Class 'Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 9
+2016-11-29 05:58:21 pid:20485 worker[WebServer:20487] exit with status 65280
+2016-11-29 05:58:21 pid:20485 worker[WebServer:20489] exit with status 65280
+2016-11-29 05:58:21 pid:20485 worker[WebServer:20486] exit with status 65280
+2016-11-29 05:58:21 pid:20498 WORKER EXIT UNEXPECTED E_ERROR Class 'Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 9
+2016-11-29 05:58:21 pid:20485 worker[WebServer:20498] exit with status 65280
+2016-11-29 05:58:26 pid:20499 WORKER EXIT UNEXPECTED E_ERROR Class 'Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 9
+2016-11-29 05:58:26 pid:20485 worker[WebServer:20499] exit with status 65280
+2016-11-29 05:58:56 pid:20502 WORKER EXIT UNEXPECTED E_ERROR Class 'Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 9
+2016-11-29 05:58:56 pid:20485 worker[WebServer:20502] exit with status 65280
+2016-11-29 06:18:24 pid:20501 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:18:24 pid:20485 worker[WebServer:20501] exit with status 65280
+2016-11-29 06:19:15 pid:20504 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:19:15 pid:20500 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:19:15 pid:20485 worker[WebServer:20504] exit with status 65280
+2016-11-29 06:19:15 pid:20485 worker[WebServer:20500] exit with status 65280
+2016-11-29 06:19:16 pid:20488 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:19:16 pid:20485 worker[WebServer:20488] exit with status 65280
+2016-11-29 06:19:17 pid:20539 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:19:17 pid:20485 worker[WebServer:20539] exit with status 65280
+2016-11-29 06:19:21 pid:20538 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:19:21 pid:20485 worker[WebServer:20538] exit with status 65280
+2016-11-29 06:19:38 pid:20534 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:19:38 pid:20485 worker[WebServer:20534] exit with status 65280
+2016-11-29 06:20:13 pid:20540 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:20:13 pid:20485 worker[WebServer:20540] exit with status 65280
+2016-11-29 06:20:15 pid:20541 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:20:15 pid:20485 worker[WebServer:20541] exit with status 65280
+2016-11-29 06:21:21 pid:20545 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class CreateQueueSendMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 15
+2016-11-29 06:21:21 pid:20485 worker[WebServer:20545] exit with status 65280
+2016-11-29 10:16:10 pid:20485 Workerman[start.php] Stopping ...
+2016-11-29 10:16:10 pid:20485 Workerman[start.php] has been stopped
+2016-11-29 10:16:12 pid:20718 Workerman[start.php] start in DEBUG mode
+2016-11-29 10:16:16 pid:20719 WORKER EXIT UNEXPECTED E_COMPILE_ERROR require_once(): Failed opening required './cmq/cmq_api.php' (include_path='.:') in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 13
+2016-11-29 10:16:16 pid:20721 WORKER EXIT UNEXPECTED E_COMPILE_ERROR require_once(): Failed opening required './cmq/cmq_api.php' (include_path='.:') in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 13
+2016-11-29 10:16:16 pid:20722 WORKER EXIT UNEXPECTED E_COMPILE_ERROR require_once(): Failed opening required './cmq/cmq_api.php' (include_path='.:') in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 13
+2016-11-29 10:16:16 pid:20718 worker[WebServer:20719] exit with status 65280
+2016-11-29 10:16:16 pid:20718 worker[WebServer:20721] exit with status 65280
+2016-11-29 10:16:16 pid:20718 worker[WebServer:20722] exit with status 65280
+2016-11-29 10:16:16 pid:20720 WORKER EXIT UNEXPECTED E_COMPILE_ERROR require_once(): Failed opening required './cmq/cmq_api.php' (include_path='.:') in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 13
+2016-11-29 10:16:16 pid:20718 worker[WebServer:20720] exit with status 65280
+2016-11-29 10:16:21 pid:20723 WORKER EXIT UNEXPECTED E_COMPILE_ERROR require_once(): Failed opening required './cmq/cmq_api.php' (include_path='.:') in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 13
+2016-11-29 10:16:21 pid:20718 worker[WebServer:20723] exit with status 65280
+2016-11-29 10:16:29 pid:20726 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 36
+2016-11-29 10:16:29 pid:20725 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 36
+2016-11-29 10:16:29 pid:20718 worker[WebServer:20726] exit with status 65280
+2016-11-29 10:16:29 pid:20724 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 36
+2016-11-29 10:16:29 pid:20718 worker[WebServer:20725] exit with status 65280
+2016-11-29 10:16:29 pid:20718 worker[WebServer:20724] exit with status 65280
+2016-11-29 10:16:43 pid:20732 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\QueueMeta' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 40
+2016-11-29 10:16:43 pid:20727 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\QueueMeta' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 40
+2016-11-29 10:16:43 pid:20731 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\QueueMeta' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 40
+2016-11-29 10:16:43 pid:20718 worker[WebServer:20732] exit with status 65280
+2016-11-29 10:16:43 pid:20718 worker[WebServer:20727] exit with status 65280
+2016-11-29 10:16:43 pid:20718 worker[WebServer:20731] exit with status 65280
+2016-11-29 10:17:16 pid:20718 Workerman[start.php] Stopping ...
+2016-11-29 10:17:16 pid:20718 Workerman[start.php] has been stopped
+2016-11-29 10:17:17 pid:20743 Workerman[start.php] start in DEBUG mode
+2016-11-29 10:20:06 pid:20743 Workerman[start.php] Stopping ...
+2016-11-29 10:20:06 pid:20743 Workerman[start.php] has been stopped
+2016-11-29 10:20:06 pid:20771 Workerman[start.php] start in DEBUG mode
+2016-11-29 17:42:10 pid:20771 Workerman[start.php] Stopping ...
+2016-11-29 17:42:10 pid:20771 Workerman[start.php] has been stopped
+2016-11-29 17:42:12 pid:23169 Workerman[start.php] start in DEBUG mode
+2016-11-29 17:49:40 pid:23169 Workerman[start.php] Stopping ...
+2016-11-29 17:49:40 pid:23169 Workerman[start.php] has been stopped
+2016-11-29 17:49:41 pid:23182 Workerman[start.php] start in DEBUG mode
+2016-11-29 17:52:27 pid:23182 Workerman[start.php] Stopping ...
+2016-11-29 17:52:27 pid:23182 Workerman[start.php] has been stopped
+2016-11-29 17:52:29 pid:23194 Workerman[start.php] start in DEBUG mode
+2016-11-29 17:55:13 pid:23194 Workerman[start.php] Stopping ...
+2016-11-29 17:55:13 pid:23194 Workerman[start.php] has been stopped
+2016-11-29 17:55:14 pid:23209 Workerman[start.php] start in DEBUG mode
+2016-11-29 17:55:34 pid:23209 Workerman[start.php] Stopping ...
+2016-11-29 17:55:34 pid:23209 Workerman[start.php] has been stopped
+2016-11-29 17:55:40 pid:23217 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:08:48 pid:23217 Workerman[start.php] Stopping ...
+2016-11-29 18:08:48 pid:23217 Workerman[start.php] has been stopped
+2016-11-29 18:08:49 pid:23263 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:43:30 pid:23263 Workerman[start.php] Stopping ...
+2016-11-29 18:43:30 pid:23263 Workerman[start.php] has been stopped
+2016-11-29 18:43:31 pid:23409 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:44:54 pid:23409 Workerman[start.php] Stopping ...
+2016-11-29 18:44:54 pid:23409 Workerman[start.php] has been stopped
+2016-11-29 18:44:55 pid:23427 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:45:00 pid:23427 Workerman[start.php] Stopping ...
+2016-11-29 18:45:00 pid:23427 Workerman[start.php] has been stopped
+2016-11-29 18:45:10 pid:23436 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:45:30 pid:23436 Workerman[start.php] Stopping ...
+2016-11-29 18:45:30 pid:23436 Workerman[start.php] has been stopped
+2016-11-29 18:45:31 pid:23445 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:52:52 pid:23445 Workerman[start.php] Stopping ...
+2016-11-29 18:52:52 pid:23445 Workerman[start.php] has been stopped
+2016-11-29 18:52:53 pid:23462 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:52:55 pid:23464 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send_message() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 64
+2016-11-29 18:52:55 pid:23462 worker[WebServer:23464] exit with status 65280
+2016-11-29 18:53:05 pid:23462 Workerman[start.php] Stopping ...
+2016-11-29 18:53:05 pid:23462 Workerman[start.php] has been stopped
+2016-11-29 18:53:06 pid:23471 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:54:15 pid:23471 Workerman[start.php] Stopping ...
+2016-11-29 18:54:15 pid:23471 Workerman[start.php] has been stopped
+2016-11-29 18:54:17 pid:23480 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:54:20 pid:23481 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send_message() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 64
+2016-11-29 18:54:20 pid:23480 worker[WebServer:23481] exit with status 65280
+2016-11-29 18:55:56 pid:23480 Workerman[start.php] Stopping ...
+2016-11-29 18:55:56 pid:23480 Workerman[start.php] has been stopped
+2016-11-29 18:56:05 pid:23493 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:57:53 pid:23493 Workerman[start.php] Stopping ...
+2016-11-29 18:57:53 pid:23493 Workerman[start.php] has been stopped
+2016-11-29 18:57:54 pid:23504 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:58:00 pid:23504 Workerman[start.php] Stopping ...
+2016-11-29 18:58:00 pid:23504 Workerman[start.php] has been stopped
+2016-11-29 18:58:14 pid:23509 Workerman[start.php] start in DEBUG mode
+2016-11-29 18:59:43 pid:23509 Workerman[start.php] Stopping ...
+2016-11-29 18:59:43 pid:23509 Workerman[start.php] has been stopped
+2016-11-29 18:59:43 pid:23522 Workerman[start.php] start in DEBUG mode
+2016-11-29 19:21:33 pid:23522 Workerman[start.php] Stopping ...
+2016-11-29 19:21:33 pid:23522 Workerman[start.php] has been stopped
+2016-11-29 19:21:34 pid:23563 Workerman[start.php] start in DEBUG mode
+2016-11-29 19:22:14 pid:23563 Workerman[start.php] Stopping ...
+2016-11-29 19:22:14 pid:23563 Workerman[start.php] has been stopped
+2016-11-29 19:22:15 pid:23573 Workerman[start.php] start in DEBUG mode
+2016-11-29 19:53:55 pid:23576 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Common' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 118
+2016-11-29 19:53:55 pid:23574 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Common' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 118
+2016-11-29 19:53:55 pid:23577 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Common' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 118
+2016-11-29 19:53:55 pid:23573 worker[WebServer:23576] exit with status 65280
+2016-11-29 19:53:55 pid:23573 worker[WebServer:23574] exit with status 65280
+2016-11-29 19:53:55 pid:23573 worker[WebServer:23577] exit with status 65280
+2016-11-29 19:53:55 pid:23575 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Common\Message::send_action() in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/send.php on line 12
+2016-11-29 19:53:55 pid:23573 worker[WebServer:23575] exit with status 65280
+2016-11-29 19:54:00 pid:23696 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Common' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 118
+2016-11-29 19:54:00 pid:23573 worker[WebServer:23696] exit with status 65280
+2016-11-29 19:54:02 pid:23573 Workerman[start.php] Stopping ...
+2016-11-29 19:54:02 pid:23573 Workerman[start.php] has been stopped
+2016-11-29 19:54:04 pid:23701 Workerman[start.php] start in DEBUG mode
+2016-11-29 19:54:05 pid:23702 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Common' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 118
+2016-11-29 19:54:05 pid:23704 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Common' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 118
+2016-11-29 19:54:05 pid:23705 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Common' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 118
+2016-11-29 19:54:05 pid:23701 worker[WebServer:23702] exit with status 65280
+2016-11-29 19:54:05 pid:23701 worker[WebServer:23704] exit with status 65280
+2016-11-29 19:54:05 pid:23701 worker[WebServer:23705] exit with status 65280
+2016-11-29 19:54:35 pid:23701 Workerman[start.php] Stopping ...
+2016-11-29 19:54:35 pid:23701 Workerman[start.php] has been stopped
+2016-11-29 19:54:36 pid:23714 Workerman[start.php] start in DEBUG mode
+2016-11-29 19:55:13 pid:23714 Workerman[start.php] Stopping ...
+2016-11-29 19:55:13 pid:23714 Workerman[start.php] has been stopped
+2016-11-29 19:55:15 pid:23724 Workerman[start.php] start in DEBUG mode
+2016-11-29 19:56:57 pid:23724 Workerman[start.php] Stopping ...
+2016-11-29 19:56:57 pid:23724 Workerman[start.php] has been stopped
+2016-11-29 19:56:57 pid:23735 Workerman[start.php] start in DEBUG mode
+2016-11-29 20:18:40 pid:23735 Workerman[start.php] Stopping ...
+2016-11-29 20:18:40 pid:23735 Workerman[start.php] has been stopped
+2016-11-29 20:18:41 pid:23808 Workerman[start.php] start in DEBUG mode
+2016-11-29 20:20:32 pid:23808 Workerman[start.php] Stopping ...
+2016-11-29 20:20:34 pid:23808 worker[WebServer:23811] exit with status 9
+2016-11-29 20:20:34 pid:23808 Workerman[start.php] has been stopped
+2016-11-29 20:20:35 pid:23826 Workerman[start.php] start in DEBUG mode
+2016-11-29 20:23:41 pid:23826 Workerman[start.php] Stopping ...
+2016-11-29 20:23:41 pid:23826 Workerman[start.php] has been stopped
+2016-11-29 20:23:43 pid:23846 Workerman[start.php] start in DEBUG mode
+2016-11-29 20:23:46 pid:23847 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send_message() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 64
+2016-11-29 20:23:46 pid:23846 worker[WebServer:23847] exit with status 65280
+2016-11-29 21:13:06 pid:23846 Workerman[start.php] Stopping ...
+2016-11-29 21:13:07 pid:23846 Workerman[start.php] has been stopped
+2016-11-29 21:13:07 pid:23916 Workerman[start.php] start in DEBUG mode
+2016-11-29 21:13:34 pid:23918 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send_message() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 64
+2016-11-29 21:13:34 pid:23916 worker[WebServer:23918] exit with status 65280
+2016-11-29 21:18:41 pid:23916 Workerman[start.php] Stopping ...
+2016-11-29 21:18:41 pid:23916 Workerman[start.php] has been stopped
+2016-11-29 21:18:42 pid:23950 Workerman[start.php] start in DEBUG mode
+2016-11-29 21:18:49 pid:23952 WORKER EXIT UNEXPECTED E_ERROR Call to a member function prepare() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/User.php on line 43
+2016-11-29 21:18:49 pid:23951 WORKER EXIT UNEXPECTED E_ERROR Call to a member function prepare() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/User.php on line 43
+2016-11-29 21:18:49 pid:23950 worker[WebServer:23952] exit with status 65280
+2016-11-29 21:18:49 pid:23954 WORKER EXIT UNEXPECTED E_ERROR Call to a member function prepare() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/User.php on line 43
+2016-11-29 21:18:49 pid:23950 worker[WebServer:23951] exit with status 65280
+2016-11-29 21:18:49 pid:23950 worker[WebServer:23954] exit with status 65280
+2016-11-29 21:18:49 pid:23953 WORKER EXIT UNEXPECTED E_ERROR Call to a member function prepare() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/User.php on line 43
+2016-11-29 21:18:49 pid:23950 worker[WebServer:23953] exit with status 65280
+2016-11-29 21:18:54 pid:23955 WORKER EXIT UNEXPECTED E_ERROR Call to a member function prepare() on a non-object in /Users/ruidi/webproject/QCloudRegisterLogin/Common/User.php on line 43
+2016-11-29 21:18:54 pid:23950 worker[WebServer:23955] exit with status 65280
+2016-11-29 21:19:22 pid:23950 Workerman[start.php] Stopping ...
+2016-11-29 21:19:22 pid:23950 Workerman[start.php] has been stopped
+2016-11-29 21:19:23 pid:23963 Workerman[start.php] start in DEBUG mode
+2016-11-29 21:44:26 pid:23963 Workerman[start.php] Stopping ...
+2016-11-29 21:44:26 pid:23963 Workerman[start.php] has been stopped
+2016-11-29 21:44:27 pid:23991 Workerman[start.php] start in DEBUG mode
+2016-11-29 21:45:04 pid:23991 Workerman[start.php] Stopping ...
+2016-11-29 21:45:04 pid:23991 Workerman[start.php] has been stopped
+2016-11-29 21:45:05 pid:23999 Workerman[start.php] start in DEBUG mode
+2016-11-29 21:57:28 pid:23999 Workerman[start.php] Stopping ...
+2016-11-29 21:57:28 pid:23999 Workerman[start.php] has been stopped
+2016-11-29 21:57:29 pid:24021 Workerman[start.php] start in DEBUG mode
+2016-11-29 21:57:52 pid:24021 Workerman[start.php] Stopping ...
+2016-11-29 21:57:52 pid:24021 Workerman[start.php] has been stopped
+2016-11-29 21:57:53 pid:24030 Workerman[start.php] start in DEBUG mode
+2016-11-29 21:58:34 pid:24030 Workerman[start.php] Stopping ...
+2016-11-29 21:58:34 pid:24030 Workerman[start.php] has been stopped
+2016-11-29 21:58:35 pid:24038 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:00:40 pid:24038 Workerman[start.php] Stopping ...
+2016-11-29 22:00:40 pid:24038 Workerman[start.php] has been stopped
+2016-11-29 22:00:41 pid:24048 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:01:37 pid:24048 Workerman[start.php] Stopping ...
+2016-11-29 22:01:37 pid:24048 Workerman[start.php] has been stopped
+2016-11-29 22:01:39 pid:24062 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:03:10 pid:24062 Workerman[start.php] Stopping ...
+2016-11-29 22:03:10 pid:24062 Workerman[start.php] has been stopped
+2016-11-29 22:03:12 pid:24075 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:03:40 pid:24075 Workerman[start.php] Stopping ...
+2016-11-29 22:03:40 pid:24075 Workerman[start.php] has been stopped
+2016-11-29 22:03:41 pid:24083 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:05:09 pid:24083 Workerman[start.php] Stopping ...
+2016-11-29 22:05:09 pid:24083 Workerman[start.php] has been stopped
+2016-11-29 22:05:10 pid:24096 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:05:25 pid:24096 Workerman[start.php] Stopping ...
+2016-11-29 22:05:27 pid:24096 worker[WebServer:24100] exit with status 9
+2016-11-29 22:05:27 pid:24096 Workerman[start.php] has been stopped
+2016-11-29 22:05:30 pid:24102 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:06:10 pid:24102 Workerman[start.php] Stopping ...
+2016-11-29 22:06:10 pid:24102 Workerman[start.php] has been stopped
+2016-11-29 22:06:11 pid:24111 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:09:17 pid:24111 Workerman[start.php] Stopping ...
+2016-11-29 22:09:17 pid:24111 Workerman[start.php] has been stopped
+2016-11-29 22:09:18 pid:24125 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:11:13 pid:24125 Workerman[start.php] Stopping ...
+2016-11-29 22:11:13 pid:24125 Workerman[start.php] has been stopped
+2016-11-29 22:11:15 pid:24136 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:12:22 pid:24136 Workerman[start.php] Stopping ...
+2016-11-29 22:12:23 pid:24136 Workerman[start.php] has been stopped
+2016-11-29 22:12:23 pid:24149 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:15:30 pid:24149 Workerman[start.php] Stopping ...
+2016-11-29 22:15:30 pid:24149 Workerman[start.php] has been stopped
+2016-11-29 22:15:31 pid:24161 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:16:00 pid:24161 Workerman[start.php] Stopping ...
+2016-11-29 22:16:00 pid:24161 Workerman[start.php] has been stopped
+2016-11-29 22:16:01 pid:24170 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:18:05 pid:24170 Workerman[start.php] Stopping ...
+2016-11-29 22:18:05 pid:24170 Workerman[start.php] has been stopped
+2016-11-29 22:18:06 pid:24180 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:19:58 pid:24180 Workerman[start.php] Stopping ...
+2016-11-29 22:19:58 pid:24180 Workerman[start.php] has been stopped
+2016-11-29 22:19:59 pid:24195 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:23:57 pid:24195 Workerman[start.php] Stopping ...
+2016-11-29 22:23:57 pid:24195 Workerman[start.php] has been stopped
+2016-11-29 22:23:58 pid:24216 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:24:37 pid:24216 Workerman[start.php] Stopping ...
+2016-11-29 22:24:37 pid:24216 Workerman[start.php] has been stopped
+2016-11-29 22:24:38 pid:24226 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:26:48 pid:24226 Workerman[start.php] Stopping ...
+2016-11-29 22:26:48 pid:24226 Workerman[start.php] has been stopped
+2016-11-29 22:26:49 pid:24243 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:27:25 pid:24243 Workerman[start.php] Stopping ...
+2016-11-29 22:27:25 pid:24243 Workerman[start.php] has been stopped
+2016-11-29 22:27:25 pid:24251 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:28:36 pid:24251 Workerman[start.php] Stopping ...
+2016-11-29 22:28:36 pid:24251 Workerman[start.php] has been stopped
+2016-11-29 22:28:37 pid:24259 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:29:36 pid:24259 Workerman[start.php] Stopping ...
+2016-11-29 22:29:36 pid:24259 Workerman[start.php] has been stopped
+2016-11-29 22:29:36 pid:24269 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:29:56 pid:24269 Workerman[start.php] Stopping ...
+2016-11-29 22:29:56 pid:24269 Workerman[start.php] has been stopped
+2016-11-29 22:29:57 pid:24277 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:30:31 pid:24277 Workerman[start.php] Stopping ...
+2016-11-29 22:30:31 pid:24277 Workerman[start.php] has been stopped
+2016-11-29 22:30:32 pid:24288 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:32:02 pid:24288 Workerman[start.php] Stopping ...
+2016-11-29 22:32:02 pid:24288 Workerman[start.php] has been stopped
+2016-11-29 22:32:03 pid:24303 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:34:02 pid:24303 Workerman[start.php] Stopping ...
+2016-11-29 22:34:02 pid:24303 Workerman[start.php] has been stopped
+2016-11-29 22:34:03 pid:24312 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:36:39 pid:24312 Workerman[start.php] Stopping ...
+2016-11-29 22:36:39 pid:24312 Workerman[start.php] has been stopped
+2016-11-29 22:36:40 pid:24328 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:36:44 pid:24331 WORKER EXIT UNEXPECTED E_PARSE parse error, expecting `"identifier (T_STRING)"' or `"namespace (T_NAMESPACE)"' or `"\\ (T_NS_SEPARATOR)"' in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 87
+2016-11-29 22:36:44 pid:24330 WORKER EXIT UNEXPECTED E_PARSE parse error, expecting `"identifier (T_STRING)"' or `"namespace (T_NAMESPACE)"' or `"\\ (T_NS_SEPARATOR)"' in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 87
+2016-11-29 22:36:44 pid:24332 WORKER EXIT UNEXPECTED E_PARSE parse error, expecting `"identifier (T_STRING)"' or `"namespace (T_NAMESPACE)"' or `"\\ (T_NS_SEPARATOR)"' in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 87
+2016-11-29 22:36:44 pid:24328 worker[WebServer:24331] exit with status 65280
+2016-11-29 22:36:44 pid:24328 worker[WebServer:24330] exit with status 65280
+2016-11-29 22:36:44 pid:24328 worker[WebServer:24332] exit with status 65280
+2016-11-29 22:36:44 pid:24334 WORKER EXIT UNEXPECTED E_PARSE parse error, expecting `"identifier (T_STRING)"' or `"namespace (T_NAMESPACE)"' or `"\\ (T_NS_SEPARATOR)"' in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 87
+2016-11-29 22:36:44 pid:24328 worker[WebServer:24334] exit with status 65280
+2016-11-29 22:36:49 pid:24335 WORKER EXIT UNEXPECTED E_PARSE parse error, expecting `"identifier (T_STRING)"' or `"namespace (T_NAMESPACE)"' or `"\\ (T_NS_SEPARATOR)"' in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 87
+2016-11-29 22:36:49 pid:24328 worker[WebServer:24335] exit with status 65280
+2016-11-29 22:42:06 pid:24328 Workerman[start.php] Stopping ...
+2016-11-29 22:42:06 pid:24328 Workerman[start.php] has been stopped
+2016-11-29 22:42:06 pid:24353 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:44:22 pid:24353 Workerman[start.php] Stopping ...
+2016-11-29 22:44:22 pid:24353 Workerman[start.php] has been stopped
+2016-11-29 22:44:23 pid:24377 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:44:49 pid:24380 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class ReceiveMessage in /Users/ruidi/webproject/QCloudRegisterLogin/Lesson/message/receive.php on line 19
+2016-11-29 22:44:49 pid:24377 worker[WebServer:24380] exit with status 65280
+2016-11-29 22:45:53 pid:24379 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 192
+2016-11-29 22:45:53 pid:24381 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 192
+2016-11-29 22:45:53 pid:24385 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 192
+2016-11-29 22:45:53 pid:24377 worker[WebServer:24379] exit with status 65280
+2016-11-29 22:45:53 pid:24377 worker[WebServer:24381] exit with status 65280
+2016-11-29 22:45:53 pid:24377 worker[WebServer:24385] exit with status 65280
+2016-11-29 22:45:53 pid:24378 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 192
+2016-11-29 22:45:53 pid:24377 worker[WebServer:24378] exit with status 65280
+2016-11-29 22:45:54 pid:24399 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 192
+2016-11-29 22:45:54 pid:24398 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 192
+2016-11-29 22:45:54 pid:24400 WORKER EXIT UNEXPECTED E_ERROR Class 'Common\Account' not found in /Users/ruidi/webproject/QCloudRegisterLogin/Common/Message.php on line 192
+2016-11-29 22:45:54 pid:24377 worker[WebServer:24399] exit with status 65280
+2016-11-29 22:45:54 pid:24377 worker[WebServer:24398] exit with status 65280
+2016-11-29 22:45:54 pid:24377 worker[WebServer:24400] exit with status 65280
+2016-11-29 22:45:57 pid:24377 Workerman[start.php] Stopping ...
+2016-11-29 22:45:57 pid:24377 Workerman[start.php] has been stopped
+2016-11-29 22:46:22 pid:24411 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:47:08 pid:24411 Workerman[start.php] Stopping ...
+2016-11-29 22:47:08 pid:24411 Workerman[start.php] has been stopped
+2016-11-29 22:47:09 pid:24425 Workerman[start.php] start in DEBUG mode
+2016-11-29 22:48:01 pid:24425 Workerman[start.php] Stopping ...
+2016-11-29 22:48:01 pid:24425 Workerman[start.php] has been stopped
+2016-11-29 22:48:02 pid:24445 Workerman[start.php] start in DEBUG mode
