@@ -74,7 +74,7 @@ class Message{
         $queue = $this->getQueue($id);
 
         $wait_seconds = 1;
-        $num_of_msg = 1;
+        $num_of_msg = 10;
 
 
          $recv_msg_list = $queue->batch_receive_message($num_of_msg, $wait_seconds);
