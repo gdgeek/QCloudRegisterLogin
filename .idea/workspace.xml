@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef2701ba-ab4b-4ef9-8736-0d3e5ebe4b6d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_Users_ruidi_webproject_QCloudRegisterLogin_Lesson_start.php.pid" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/Message.php" afterPath="$PROJECT_DIR$/Common/Message.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/workerman.log" afterPath="$PROJECT_DIR$/workerman.log" />
-    </list>
+    <list default="true" id="ef2701ba-ab4b-4ef9-8736-0d3e5ebe4b6d" name="Default" comment="" />
     <ignored path="QCloudRegisterLogin.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -410,12 +405,12 @@
       <workItem from="1479650328770" duration="2338000" />
       <workItem from="1479704113679" duration="14036000" />
       <workItem from="1480370180463" duration="15439000" />
-      <workItem from="1480483889036" duration="201000" />
+      <workItem from="1480483889036" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33404000" />
+    <option name="totallyTimeSpent" value="33837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="59" width="1260" height="686" extended-state="0" />
