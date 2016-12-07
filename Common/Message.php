@@ -30,13 +30,9 @@ class Message{
         $this->secretId = "AKIDb5OWSF6Gj074rRT590e6MPQK4fS5nmqm";
         $this->secretKey = "rWzFI9nJckgS1TjokV4RbYO2ThkfQDrK";
         $this->endpoint = "http://cmq-queue-gz.api.qcloud.com";
-       // $this->secretId = $secretId;
-        //$this->secretKey = $secretKey;
-       // $this->endpoint = $endpoint;
     }
     private function getQueue($id, $create = true){
         $queue_name = "Queue-".$id;
-       // echo $queue_name;
         $my_account = new \Account($this->endpoint, $this->secretId, $this->secretKey);
         $my_queue = $my_account->get_queue($queue_name);
 
@@ -64,9 +60,7 @@ class Message{
         $msg = new \Message(json_encode($pack));
 
         $re_msg = $queue->send_message($msg);
-
         return $re_msg;
-
 
     }
     public function receive($id){
@@ -155,19 +149,13 @@ class Message{
         }
         try
         {
-
             $ret->receive = $this->receive($user->data->id);
         }catch (\CMQExceptionBase $e)
         {
-
-
             $ret->error($e->getMessage());
             $ret->output();
             return;
         }
         $ret->output();
     }
-
-
-
 }

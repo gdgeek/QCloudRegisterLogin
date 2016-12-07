@@ -18,7 +18,6 @@ class Score
 
     function __construct() {
         $this->redis = new \Redis();
-       // $this->redis->connect('127.0.0.1',6379);
         $this->redis->connect('10.66.148.92',6379);
         $this->redis->auth("crs-00dwilt7:qs654321");
 
@@ -55,64 +54,28 @@ class Score
     public function submit(){
         $ret = new \Common\Result();
 
-
-
         if(!isset($_REQUEST['score']) || !is_numeric($_REQUEST['score'])) {
             $ret->error('no score');
             $ret->output();
             return;
         }
 
-
-        if(!isset($_REQUEST['id'])) {
-            $ret->error('no id');
-            $ret->output();
-            return;
-        }
-
-        if(!isset($_REQUEST['password'])) {
-            $ret->error('no password');
-            $ret->output();
-            return;
-        }
-
-
-
         $pdo = new \Common\DbPdo();
-        $id = $_REQUEST['id'];
-        $password = $_REQUEST['password'];
 
-        $sql = "SELECT password,nickname FROM user WHERE id = :id ";
-
-        $stm = $pdo->db->prepare($sql);
-
-        $stm->bindParam(":id", $id);
-        $stm->execute();
-        $query = $stm->fetch();
-
-        if($query){
-            if($query['password'] != md5($password)){
-                $ret->error("wrong password");
-                $ret->output();
-                return;
-            }
-
-        }else{
-            $ret->error("no user");
+        $user = new \Common\User($pdo);
+        $ret = $user->ret;
+        if(!$ret->succeed){
             $ret->output();
             return;
-
         }
 
 
+        $info = new \stdClass();
+        $info->id = $user->data->id;
+        $info->nickname =  $user->data->nickname;
+        $info->score = $_REQUEST['score'];
 
-        $user = new \stdClass();
-        $user->id = $id;
-        $nickname = $query['nickname'];
-        $score = $_REQUEST['score'];
-        $user->nickname = $nickname;
-        $user->score = $score;
-        $this->setScores($user, $score);
+        $this->setScores($info, $info->score);
         $ret->top10 = $this->_top10();
         $ret->output();
 
